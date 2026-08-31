@@ -1,0 +1,24 @@
+{
+  "name": "eth-erc20-transfers-handler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.6.1",
+    "@sentry/serverless": "^6.16.1",
+    "pg": "^8.7.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.12.0-beta.2",
+    "sequelize-cli": "^6.3.0",
+    "snakecase-keys": "^5.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.12"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "eth-logs-inserter-handler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sentry/serverless": "^6.16.1",
+    "lodash": "^4.17.21",
+    "pg": "^8.7.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.12.0-beta.2",
+    "sequelize-cli": "^6.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.12",
+    "@types/validator": "^13.7.1"
+  }
+}

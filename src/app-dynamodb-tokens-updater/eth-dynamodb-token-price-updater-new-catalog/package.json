@@ -1,0 +1,19 @@
+{
+  "name": "dynamodb-token-price-updater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.44.0",
+    "@aws-sdk/util-dynamodb": "^3.44.0",
+    "@opensearch-project/opensearch": "^2.0.0",
+    "@sentry/serverless": "^6.16.1",
+    "lodash": "^4.17.21"
+  }
+}

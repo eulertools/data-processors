@@ -1,0 +1,21 @@
+{
+  "name": "eth-erc20-transfers-handler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@opensearch-project/opensearch": "^2.0.0",
+    "@sentry/serverless": "^6.16.1",
+    "snakecase-keys": "^5.1.2",
+    "web3": "^1.7.4"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.12"
+  }
+}

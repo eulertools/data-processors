@@ -1,0 +1,17 @@
+{
+  "name": "eth-neo4j-updater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sentry/serverless": "^6.16.1",
+    "neo4j-driver": "^4.4.1",
+    "web3-utils": "^1.7.4"
+  }
+}
