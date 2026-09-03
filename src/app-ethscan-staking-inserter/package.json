@@ -22,6 +22,6 @@
     "sequelize": "^6.19.0",
     "sequelize-cli": "^6.3.0",
     "snakecase-keys": "^5.1.2",
-    "web3": "^1.7.3"
+    "web3": "^4.16.0"
   }
 }
