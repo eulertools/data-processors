@@ -19,6 +19,6 @@
     "pg-hstore": "^2.3.4",
     "sequelize": "^6.12.0-beta.3",
     "snakecase-keys": "^5.1.2",
-    "web3": "^1.6.1"
+    "web3": "^4.16.0"
   }
 }
